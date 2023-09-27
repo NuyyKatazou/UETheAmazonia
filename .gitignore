@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Megascans/Surfaces/Wild_Grass_vglldbxg/T_Wild_Grass_vglldbxg_8K_D.uasset
+Content/Megascans/Surfaces/Wild_Grass_vglldbxg/T_Wild_Grass_vglldbxg_8K_N.uasset
+Content/Megascans/Surfaces/Wild_Grass_vglldbxg/T_WildGrass_vglldbxg_8K_ORDp.uasset
